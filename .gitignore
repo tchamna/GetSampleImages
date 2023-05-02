@@ -1,0 +1,17 @@
+# Ignore all files and folders that start with a dot
+*.
+
+# Ignore a given file 
+
+DoNotShare.txt
+
+
+# Ignore all temporary files
+*.tmp
+*.bak
+*.swp
+
+
+
+# Ignore all Python virtual environment files
+.venv
